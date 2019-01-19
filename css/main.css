@@ -1,0 +1,43 @@
+
+html,
+body {
+    background: #ececec;
+    overflow-x: hidden;
+}
+body{
+    margin: 100px 4vw auto 4vw !important;
+    background-color: transparent !important;
+    
+}
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+.navbar-brand{
+    margin: 0;
+}
+#projects{
+}
+#projects .card{
+    margin-top: 50px;
+}
+.card-body .btn{
+    margin-right: 3vw;
+
+}
+img{
+    height: 40vh;
+    display: inline;
+    float: right;
+}
